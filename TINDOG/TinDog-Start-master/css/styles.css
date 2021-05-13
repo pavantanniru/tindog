@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
+
+#title{
+  background-color: #ff8474;
+}
+
+h1{
+  font-family: 'Itim', cursive;
+  font-size : 3rem;
+  line-height:1.5;
+  color:#fff;
+}
+
+.container-fluid{
+  padding : 3% 15%;
+}
+
+.navbar-brand{
+  font-size:2.5rem;
+  font-weight:bold;
+}
+
+
+.navbar{
+  padding : 0 0 2.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.nav-link{
+  font-size : 1.2rem;
+}
+
+.download-btn{
+  margin:5% 3% 5% 0;
+}
+
+.iphone-img{
+  width:60%;
+  transform:rotate(25deg);
+  
+
+}
+
+
+#features{
+  text-align:center;
+
+
+
+
+  padding:5% 7%;
+  margin-bottom:7%;
+
+.feature-box{
+  text-align:center;
+  padding : 5%;
+
+}
+
+}
+
+.icon{
+  font-size:2rem;
+  color:green;
+  margin-bottom: 5% 3%;
+}
+
+.icon:hover{
+  color:#6930c3;
+}
+
+
+
+#testimonials{
+  background-color:#ff8474;
+  /* padding : 3% 7%; */
+  text-align:center;
+  color:#fff;
+}
+
+.testimonial-text{
+
+  font-size:2.5rem;
+  line-height:1.5;
+  font-family: 'Goblin One', cursive;
+}
+
+.testimonial-image{
+  width:10%;
+  border-radius:100%;
+  margin: .5%;
+}
+
+
+#press{
+  background-color:#ff8474;
+  padding 3% 7%;
+  padding-bottom:3%;
+  text-align:center;
+}
+
+.press-logo{
+
+  width:15%;
+  margin: 3% 5%;
+
+}
+
+
+.carousel-item{
+  padding:7% 15%;
+}
+
+
+#pricing{
+  padding : 30px;
+  text-align:center;
+}
+
+#cta{
+  background-color:#ff8474;
+  text-align:center;
+  padding: 7% 15%;
+
+
+}
+
+
+
+.cta-action{
+  font-family: 'Codystar', cursive;
+  color:#ffd56b;
+  font-size: 3rem;
+  line-height:1.5;
+}
+
+#footer{
+
+  padding : 7% 15%;
+  text-align:center;
+
+}
+
+.social-icon{
+  margin:3%;
+}
